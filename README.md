@@ -8,5 +8,7 @@ Project contains:
 - Improvement to models through feature selection and hyperparameter tuning using Scikit-learn's RFECV and SequentialFeatureSelection for the former and GridSearchCV for the latter.
 - Investigation into the combination of models using Voting and Stacking ensemble methods.
 
+Description of all processes is written up in the [report](https://github.com/PeterEvansDS/SalaryClassification/blob/main/report.pdf).
+
 ![alt text](https://github.com/PeterEvansDS/SalaryClassification/blob/main/images/money.jpeg)
 
