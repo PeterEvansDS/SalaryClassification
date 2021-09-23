@@ -1,5 +1,5 @@
 # Salary Classification
-Model to predict whether a someone receives a salary of over 50k using their characteristics listed in the census, using the dataset from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Adult).
+Model to predict whether someone receives a salary of over 50k using their characteristics listed in the census, using the dataset from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Adult).
 
 Project contains:
 - Data cleaning (including categorical encoding) and exploration (`prep.py`)
